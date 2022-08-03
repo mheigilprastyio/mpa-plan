@@ -3,3 +3,6 @@ MPA Plan
 - Fullstack Web Developer
 - Mobile Fundamental
 - Fullstack Mobile Developer
+- Network Fundamental
+- Network Engginer
+- DevOps Engginer
